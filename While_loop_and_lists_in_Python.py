@@ -10,7 +10,7 @@
 # [1] Valentyn N Sichkar. Working with while loop and lists in Python // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/While_loop_and_lists_in_Python (date of access: XX.XX.XXXX)
 
 """
-Created on Mon Dec 25 22:24:34 2017
+Created on Mon Jan 08 14:52:15 2018
 
 @author: Valentyn
 """
