@@ -1,9 +1,6 @@
 # While loop and lists in Python
 Working with while loop and lists in Python
 
-### Courses:
-* Explore the course **"Convolutional Neural Networks for Image Classification"** here: https://stepik.org/course/53801/promo
-
 ### Reference to:
 [1] Valentyn N Sichkar. Working with while loop and lists in Python // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/While_loop_and_lists_in_Python (date of access: XX.XX.XXXX)
 
